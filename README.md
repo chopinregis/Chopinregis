@@ -40,7 +40,7 @@ The methodology has been applied across complete architectural specifications in
 | **FinGovOS** | Financial services compliance | OSFI E-23, BCBS 239, SOX 404, AUSTRAC AML/CTF |
 | **GovAccountabilityOS** | Government accountability claim governance | CRA T3010, federal contracts data |
 | **WaterOS** | Wildfire-impacted water treatability | Dr. Monica Emelko / U. Waterloo methodology lineage |
-| **BloomOS** | Marine biotoxin & freshwater bloom detection | WHOI / NOAA methodology lineage |
+| **[BloomOS / CyanoHAB Protocol](https://github.com/chopinregis/BloomOS-CyanoHAB)** | Marine biotoxin & freshwater bloom detection | WHOI / NOAA methodology lineage |
 | **SHI / Soil Vitality Architecture** | Continental soil health monitoring | Soil Health Institute methodology |
 | **FogAg** | Precision agriculture & groundwater | — |
 | **MyROS** | Mycoremediation enzymatic wastewater treatment | Sherbrooke / Prof. Hubert Cabana methodology |
