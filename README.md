@@ -4,7 +4,7 @@
 
 Salaberry-de-Valleyfield, Quebec, Canada — French (Native) · English (Fluent)
 
-[Portfolio](https://regis-portfolio-live.web.app) · [LinkedIn](https://linkedin.com/in/regisbricende) · [YouTube]([https://youtube.com/@RegisNdeTene](https://www.youtube.com/@OpenSourceArchitectureLab)) · regisndetene@gmail.com · +1.514.830.6225
+[Portfolio](https://regis-portfolio-live.web.app) · [LinkedIn](https://linkedin.com/in/regisbricende) · [YouTube](https://www.youtube.com/@OpenSourceArchitectureLab) · regisndetene@gmail.com · +1.514.830.6225
 
 ---
 
