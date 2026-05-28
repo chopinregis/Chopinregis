@@ -31,7 +31,7 @@ Every SPA-derived system produces an **immutable Flight Recorder** — a SHA-256
 
 ### Domain deployment specifications
 
-The methodology has been applied across complete architectural specifications in the following regulated and scientific domains. Each is a deployment-ready specification (455+ paragraph document with provenance discipline) and the IP of Sovereign Process Architecture Inc.
+The methodology has been applied across complete deployment specifications in the following regulated and scientific domains. Each is a deployment-ready specification (455+ paragraph document with provenance discipline) and the IP of Sovereign Process Architecture Inc. Linked entries below open the full publicly available specification on GitHub.
 
 | Spec | Domain | Methodology lineage |
 |---|---|---|
