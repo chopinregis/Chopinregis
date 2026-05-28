@@ -106,7 +106,7 @@ A long-running practice in the open-source BIM and CAD ecosystem (FreeCAD, Blend
 
 **Cloud** — AWS Certified Solutions Architect Professional · Google Cloud Certified Associate Cloud Engineer · AEC in Cloud Computing & Networking, Montreal College of Information (2024)
 
-**Methodology authoring** — SPA Master Specification v2.0 (455+ paragraphs across twelve domain deployment specifications) with provenance-discipline document architecture
+**Methodology authoring** — SPA Master Specification v2.0 (455+ paragraphs across thirteen domain deployment specifications) with provenance-discipline document architecture
 
 ---
 
