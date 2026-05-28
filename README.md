@@ -46,6 +46,7 @@ The methodology has been applied across complete deployment specifications in th
 | **MyROS** | Mycoremediation enzymatic wastewater treatment | Sherbrooke / Prof. Hubert Cabana methodology |
 | **MROS** | Fungal & microbial reactor maturation | Johnson-Su methodology |
 | **Brioschi Protocol** | Clinical medical optics & thermography | Dr. Marcos Brioschi / AAT |
+| **[SenescenceOS / Longevity Damage Governance](https://github.com/chopinregis/SenescenceOS-LongevityGovernance)** | Longitudinal rejuvenation research & longevity damage trajectory governance | SENS framework / LEV Foundation methodology lineage |
 | **FocusCraftJob Protocol** | Human labor authenticity verification | Validator Node Protocol, production deployment |
 
 **Demonstrated live to institutional decision-makers:**
