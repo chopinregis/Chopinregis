@@ -61,8 +61,8 @@ The **FocusCraftJob Protocol** is the only deployment currently in production. O
 
 - **[FocusCraftJob](https://focuscraft-live.web.app)** — AI career development platform with the Validator Node Protocol distinguishing genuine human work from AI-generated output. React / TypeScript / Firebase / Gemini API.
 - **[UseFocusFlow](https://usefocusflow.pro)** — Commercial freelancer SaaS with full Stripe subscription lifecycle, project management, time tracking, automated invoicing. Multi-tenant Firestore architecture, 99.9%+ uptime.
-- **FocusInfoExa** — Specialized AI study tool serving Quebec OIIQ nursing exam candidates. Built originally for my mother during her exam preparation; now serves a small group of paying users from her network.
-- **CloudCertPro** — Reusable factory architecture for domain-specific AI study tools across AWS, Azure, and GCP certification domains.
+- **[FocusInfoExa](https://focus-examen-infirmier.web.app/)** — Specialized AI study tool serving Quebec OIIQ nursing exam candidates. Built originally for my mother during her exam preparation; now serves a small group of paying users from her network.
+- **[CloudCertPro](https://cloud-cert-pro.web.app/)** — Reusable factory architecture for domain-specific AI study tools across AWS, Azure, and GCP certification domains.
 
 All four built with Claude as primary development partner, demonstrating production-grade AI-assisted architecture methodology in real commercial environments.
 
