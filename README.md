@@ -39,7 +39,7 @@ The methodology has been applied across complete deployment specifications in th
 | **ProcureOS** | Pre-commitment procurement governance | FAR Part 9, UK Procurement Act 2023, OSFI B-10 |
 | **FinGovOS** | Financial services compliance | OSFI E-23, BCBS 239, SOX 404, AUSTRAC AML/CTF |
 | **GovAccountabilityOS** | Government accountability claim governance | CRA T3010, federal contracts data |
-| **WaterOS** | Wildfire-impacted water treatability | Dr. Monica Emelko / U. Waterloo methodology lineage |
+| **[WaterOS / Wildfire Treatability Operating System](https://github.com/chopinregis/WaterOS-WildfireTreatability)** | Wildfire-impacted water treatability | University of Waterloo / Emelko research lineage |
 | **[BloomOS / CyanoHAB Protocol](https://github.com/chopinregis/BloomOS-CyanoHAB)** | Marine biotoxin & freshwater bloom detection | WHOI / NOAA methodology lineage |
 | **SHI / Soil Vitality Architecture** | Continental soil health monitoring | Soil Health Institute methodology |
 | **FogAg** | Precision agriculture & groundwater | — |
