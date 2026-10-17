@@ -51,7 +51,7 @@ Each domain is a specification in the SPA grammar, with provenance discipline th
 | **FogAg** | Precision agriculture & groundwater | | Specification |
 | **MyROS** | Mycoremediation enzymatic wastewater treatment | Built on the published methodology of Prof. Hubert Cabana (Sherbrooke) | Specification |
 | **MROS** | Fungal & microbial reactor maturation | Built on the published methodology of Johnson-Su | Specification |
-| **Brioschi Protocol** | Clinical medical optics & thermography | Built on the published methodology of AAT | Specification |
+| **Brioschi Protocol** | Clinical medical optics & thermography | Built on the published methodology of Dr. Marcos Brioschi / AAT | Specification |
 | **[SenescenceOS / Longevity Damage Governance](https://github.com/chopinregis/SenescenceOS-LongevityGovernance)** | Longitudinal rejuvenation research & longevity damage trajectory governance | Built on the SENS framework and LEV Foundation methodology | Specification |
 | **FocusCraftJob Protocol** | Human labor authenticity verification | Validator Node Protocol | **Production**: the only deployment running for real users |
 
